@@ -50,11 +50,13 @@ body {
             display: flex;
             align-items: center;
             justify-content: flex-end;
+            overflow: hidden;
             .result {
                 font-size: 40px;
                 color: white;
                 text-align: end;
                 margin-right: 10px;
+                width: 70%;
             }
         }
         
